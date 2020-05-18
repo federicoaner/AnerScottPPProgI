@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589806848 source:c:\users\fede\desktop\programacion1 git\trabajo_clases\1erparcialprogramacion\main.c
+	<stdio.h>
+	<stdlib.h>
+
